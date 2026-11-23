@@ -1,0 +1,20 @@
+{
+  "contest_track_id": 382,
+  "contest_name": "校园恋爱",
+  "series": "独立",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:14+08:00",
+      "total_pages": 2,
+      "fetched_pages": [
+        0,
+        1
+      ],
+      "novel_count": 612,
+      "sha256": "b5660d630ca01395d0414302a8f566386ab32b4aadf63d1cb2df6582e11246b9"
+    }
+  ]
+}

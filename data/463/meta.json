@@ -1,0 +1,20 @@
+{
+  "contest_track_id": 463,
+  "contest_name": "穿越主题",
+  "series": "独立",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:29+08:00",
+      "total_pages": 2,
+      "fetched_pages": [
+        0,
+        1
+      ],
+      "novel_count": 675,
+      "sha256": "3ea13a182475a1b29338237d3fe0e89f6541204bc13de2c935c807587684b07f"
+    }
+  ]
+}

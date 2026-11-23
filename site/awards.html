@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>获奖列表 · SFACG 征文归档</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body data-page="awards">
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html">SFACG 征文归档</a>
+      <nav class="nav">
+        <a href="index.html">赛事索引</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="app" class="container" v-cloak>
+    <div v-if="loading" class="state">正在加载获奖数据…</div>
+    <div v-else-if="error" class="alert">{{ error }}</div>
+
+    <template v-else>
+      <section class="hero compact">
+        <div class="hero-copy">
+          <p class="eyebrow">Award List</p>
+          <h1>{{ contest ? contest.contest_name : '获奖列表' }}</h1>
+          <p class="lead">
+            赛道 ID <span class="mono">{{ contestId }}</span>
+            <span v-if="contest" class="dot">·</span>
+            <span v-if="contest"><span class="pill" :class="seriesClass(contest.series)">{{ contest.series }}</span></span>
+            <span class="dot">·</span> 已核实获奖 {{ awards.length }} 条
+          </p>
+          <p class="announce-line">
+            <span class="muted">官方公示页面：</span>
+            <a v-if="contest && contest.activity_url" class="announce-link" :href="contest.activity_url" target="_blank" rel="noopener noreferrer">
+              打开公示页 ↗
+            </a>
+            <span v-else class="muted">未取到（活动页可能已下线）</span>
+          </p>
+        </div>
+        <div class="stats">
+          <div class="stat"><strong>{{ awards.length }}</strong><span>获奖条目</span></div>
+          <div class="stat"><strong>{{ goldCount }}</strong><span>金奖</span></div>
+          <div class="stat"><strong>{{ verifiedCount }}</strong><span>已核实</span></div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-head">
+          <h2>获奖列表</h2>
+          <span class="muted">构建于 {{ site ? site.built_at : '—' }}</span>
+        </div>
+
+        <div class="toolbar">
+          <input class="input search" v-model.trim="keyword" type="search" placeholder="搜索书名 / nid / 奖项 / 来源 / 备注" />
+          <span class="muted count">显示 {{ filtered.length }} / {{ awards.length }}</span>
+        </div>
+
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>nid</th>
+                <th>书名</th>
+                <th>奖项</th>
+                <th>证据来源</th>
+                <th>核实</th>
+                <th>备注</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr v-for="a in paged" :key="a.nid + '-' + a.award">
+                <td><a class="mono" :href="bookUrl(a.nid)" target="_blank" rel="noopener">{{ a.nid }}</a></td>
+                <td><a :href="bookUrl(a.nid)" target="_blank" rel="noopener">{{ a.title }}</a></td>
+                <td><span class="badge award">{{ a.award }}</span></td>
+                <td class="muted">{{ a.source || '—' }}</td>
+                <td>{{ a.verified ? '已核实' : '待核实' }}</td>
+                <td class="muted">{{ a.note || '—' }}</td>
+              </tr>
+              <tr v-if="!filtered.length">
+                <td class="empty" colspan="6">没有匹配的获奖记录</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <pager :page="page" :page-size="pageSize" :total="filtered.length" @update:page="page = $event" />
+      </section>
+    </template>
+  </main>
+
+  <footer class="site-footer">
+    <span>归档真值在 <code>data/</code>，本页只读取构建时导出的 JSON。</span>
+    <span>本地预览请通过 HTTP 服务访问，直接打开 HTML 会被浏览器禁止读取 JSON。</span>
+  </footer>
+
+  <script src="assets/vue.global.prod.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

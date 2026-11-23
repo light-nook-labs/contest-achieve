@@ -1,0 +1,22 @@
+{
+  "contest_track_id": 410,
+  "contest_name": "七征-赛道3",
+  "series": "X征",
+  "api_generation": "legacy",
+  "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:52:47+08:00",
+      "total_pages": 4,
+      "fetched_pages": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "novel_count": 764,
+      "sha256": "29626aa6a1356bde086085df6fb0f65aab2feda24fcd6d60eedbc1c8fdd514c5"
+    }
+  ]
+}

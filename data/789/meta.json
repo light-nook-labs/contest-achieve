@@ -1,0 +1,22 @@
+{
+  "contest_track_id": 789,
+  "contest_name": "2026春征",
+  "series": "春征",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:56:43+08:00",
+      "total_pages": 4,
+      "fetched_pages": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "novel_count": 1679,
+      "sha256": "4bf65b3af78ba4af54cce2188701c9fb0295fdda03a8eb9e5fb8c90cda73f9fb"
+    }
+  ]
+}

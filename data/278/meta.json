@@ -1,0 +1,19 @@
+{
+  "contest_track_id": 278,
+  "contest_name": "楚楚动仁同人",
+  "series": "独立",
+  "api_generation": "legacy",
+  "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:09+08:00",
+      "total_pages": 1,
+      "fetched_pages": [
+        0
+      ],
+      "novel_count": 49,
+      "sha256": "0a31956cdb0dd3ee06e81784bc56258b11f241ccf392a204df76d2d53f57be66"
+    }
+  ]
+}

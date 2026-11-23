@@ -1,0 +1,902 @@
+[
+  {
+    "contest_track_id": 275,
+    "contest_name": "四征-长篇",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://book.sfacg.com/zw2016/"
+  },
+  {
+    "contest_track_id": 276,
+    "contest_name": "四征-中篇",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://book.sfacg.com/zw2016/"
+  },
+  {
+    "contest_track_id": 277,
+    "contest_name": "四征-短篇",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://book.sfacg.com/zw2016/"
+  },
+  {
+    "contest_track_id": 377,
+    "contest_name": "五征-长篇",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://book.sfacg.com/zw2017/"
+  },
+  {
+    "contest_track_id": 378,
+    "contest_name": "五征-中篇",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://book.sfacg.com/zw2017/"
+  },
+  {
+    "contest_track_id": 379,
+    "contest_name": "五征-短篇",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://book.sfacg.com/zw2017/"
+  },
+  {
+    "contest_track_id": 380,
+    "contest_name": "五征-对话",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://book.sfacg.com/zw2017/"
+  },
+  {
+    "contest_track_id": 383,
+    "contest_name": "六征-长篇",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw2018/"
+  },
+  {
+    "contest_track_id": 384,
+    "contest_name": "六征-中篇",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw2018/"
+  },
+  {
+    "contest_track_id": 385,
+    "contest_name": "六征-短篇",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw2018/"
+  },
+  {
+    "contest_track_id": 386,
+    "contest_name": "六征-对话",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw2018/"
+  },
+  {
+    "contest_track_id": 408,
+    "contest_name": "七征-赛道1",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw2019/"
+  },
+  {
+    "contest_track_id": 409,
+    "contest_name": "七征-赛道2",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw2019/"
+  },
+  {
+    "contest_track_id": 410,
+    "contest_name": "七征-赛道3",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw2019/"
+  },
+  {
+    "contest_track_id": 411,
+    "contest_name": "七征-赛道4",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw2019/"
+  },
+  {
+    "contest_track_id": 412,
+    "contest_name": "七征-赛道5",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw2019/"
+  },
+  {
+    "contest_track_id": 418,
+    "contest_name": "八征-长篇",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw2020/"
+  },
+  {
+    "contest_track_id": 419,
+    "contest_name": "八征-中篇",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw2020/"
+  },
+  {
+    "contest_track_id": 420,
+    "contest_name": "八征-短篇",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw2020/"
+  },
+  {
+    "contest_track_id": 457,
+    "contest_name": "九征-长篇",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw2021/"
+  },
+  {
+    "contest_track_id": 458,
+    "contest_name": "九征-中篇",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw2021/"
+  },
+  {
+    "contest_track_id": 459,
+    "contest_name": "九征-短篇",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw2021/"
+  },
+  {
+    "contest_track_id": 462,
+    "contest_name": "九征-对话",
+    "series": "X征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw2021/"
+  },
+  {
+    "contest_track_id": 475,
+    "contest_name": "十征-长篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw2022/"
+  },
+  {
+    "contest_track_id": 476,
+    "contest_name": "十征-中篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw2022/"
+  },
+  {
+    "contest_track_id": 477,
+    "contest_name": "十征-短篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw2022/"
+  },
+  {
+    "contest_track_id": 479,
+    "contest_name": "十征-对话",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw2022/"
+  },
+  {
+    "contest_track_id": 653,
+    "contest_name": "十一征-长篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20230504/pc"
+  },
+  {
+    "contest_track_id": 654,
+    "contest_name": "十一征-中篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20230504/pc"
+  },
+  {
+    "contest_track_id": 655,
+    "contest_name": "十一征-短篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20230504/pc"
+  },
+  {
+    "contest_track_id": 702,
+    "contest_name": "十二征-长篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20240504/pc"
+  },
+  {
+    "contest_track_id": 703,
+    "contest_name": "十二征-中篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20240504/pc"
+  },
+  {
+    "contest_track_id": 704,
+    "contest_name": "十二征-短篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20240504/pc"
+  },
+  {
+    "contest_track_id": 752,
+    "contest_name": "十三征-长篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20250504/pc"
+  },
+  {
+    "contest_track_id": 753,
+    "contest_name": "十三征-中篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20250504/pc"
+  },
+  {
+    "contest_track_id": 754,
+    "contest_name": "十三征-短篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20250504/pc"
+  },
+  {
+    "contest_track_id": 793,
+    "contest_name": "十四征-长篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20260504/pc"
+  },
+  {
+    "contest_track_id": 794,
+    "contest_name": "十四征-短篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20260504/pc"
+  },
+  {
+    "contest_track_id": 381,
+    "contest_name": "一征冬征",
+    "series": "冬征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/djzw2018/"
+  },
+  {
+    "contest_track_id": 406,
+    "contest_name": "二征冬征",
+    "series": "冬征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/djzw2019/"
+  },
+  {
+    "contest_track_id": 415,
+    "contest_name": "三征冬征",
+    "series": "冬征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/djzw2020/"
+  },
+  {
+    "contest_track_id": 454,
+    "contest_name": "四征冬征",
+    "series": "冬征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/pc/act/djzw2021/"
+  },
+  {
+    "contest_track_id": 466,
+    "contest_name": "五征冬征",
+    "series": "冬征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/djzw2022/"
+  },
+  {
+    "contest_track_id": 485,
+    "contest_name": "六征冬征",
+    "series": "冬征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20221205/"
+  },
+  {
+    "contest_track_id": 692,
+    "contest_name": "七征冬征",
+    "series": "冬征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20231204/"
+  },
+  {
+    "contest_track_id": 726,
+    "contest_name": "八征冬征",
+    "series": "冬征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_c49534b9-73b2-46c9-a33f-b8144b448662.html"
+  },
+  {
+    "contest_track_id": 774,
+    "contest_name": "九征冬征",
+    "series": "冬征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_373481c3-8fb0-4113-83fb-5058a816f828.html"
+  },
+  {
+    "contest_track_id": 473,
+    "contest_name": "2022春征",
+    "series": "春征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20220301/"
+  },
+  {
+    "contest_track_id": 632,
+    "contest_name": "2023春征",
+    "series": "春征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20230301/"
+  },
+  {
+    "contest_track_id": 699,
+    "contest_name": "2024春征",
+    "series": "春征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20240301/"
+  },
+  {
+    "contest_track_id": 746,
+    "contest_name": "2025春征",
+    "series": "春征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_d892261b-8719-4e3b-b01a-b84278b2996b.html"
+  },
+  {
+    "contest_track_id": 789,
+    "contest_name": "2026春征",
+    "series": "春征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_52f25c52-1de0-4608-90fc-293aac35a588.html"
+  },
+  {
+    "contest_track_id": 464,
+    "contest_name": "2021东方世界秋征",
+    "series": "秋征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 465,
+    "contest_name": "2021异世大陆秋征",
+    "series": "秋征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 481,
+    "contest_name": "2022主题秋征",
+    "series": "秋征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20220930/"
+  },
+  {
+    "contest_track_id": 669,
+    "contest_name": "2023主题秋征",
+    "series": "秋征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20230930/"
+  },
+  {
+    "contest_track_id": 725,
+    "contest_name": "2024秋征",
+    "series": "秋征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_0a10b388-bf92-410c-801a-59c91b853c3f.html"
+  },
+  {
+    "contest_track_id": 772,
+    "contest_name": "2025秋征",
+    "series": "秋征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_d568a583-bde8-4f16-809a-8ab7097261be.html"
+  },
+  {
+    "contest_track_id": 803,
+    "contest_name": "2026秋征",
+    "series": "秋征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 480,
+    "contest_name": "少年-奇幻冒险",
+    "series": "少年",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 660,
+    "contest_name": "少年-幻想之旅",
+    "series": "少年",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 722,
+    "contest_name": "少年-幻想校园",
+    "series": "少年",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_7465fc4b-8c7e-4e23-a30c-721ec33ced8b.html"
+  },
+  {
+    "contest_track_id": 747,
+    "contest_name": "少年-二次元创想·长篇",
+    "series": "少年",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_775951e5-ac60-4df4-a8d3-4ffb64173398.html"
+  },
+  {
+    "contest_track_id": 748,
+    "contest_name": "少年-二次元创想·短篇",
+    "series": "少年",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_775951e5-ac60-4df4-a8d3-4ffb64173398.html"
+  },
+  {
+    "contest_track_id": 755,
+    "contest_name": "奇幻世界主题征文",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_e5950dc7-7f12-4fca-8049-8fd2afd9c0eb.html"
+  },
+  {
+    "contest_track_id": 724,
+    "contest_name": "点鸭秋色回忆",
+    "series": "对话",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_c7ff7adf-4f9d-416d-a5e0-796683eb6763.html"
+  },
+  {
+    "contest_track_id": 278,
+    "contest_name": "楚楚动仁同人",
+    "series": "独立",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 404,
+    "contest_name": "少女前线",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 405,
+    "contest_name": "崩坏3",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 413,
+    "contest_name": "龙之谷",
+    "series": "独立",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 467,
+    "contest_name": "战斗主题",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 468,
+    "contest_name": "失业魔王同人",
+    "series": "独立",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 633,
+    "contest_name": "星穹小说家",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 469,
+    "contest_name": "英雄再临同人",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 382,
+    "contest_name": "校园恋爱",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 414,
+    "contest_name": "校园都市",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 417,
+    "contest_name": "幻想小说",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 456,
+    "contest_name": "玄幻征文",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 453,
+    "contest_name": "秋季恋爱",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 463,
+    "contest_name": "穿越主题",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 634,
+    "contest_name": "超新星杯短篇",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 675,
+    "contest_name": "怪谈异闻·长篇",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 676,
+    "contest_name": "怪谈异闻·短篇",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 691,
+    "contest_name": "冬季恋曲",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 693,
+    "contest_name": "2024主题短篇",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 471,
+    "contest_name": "对话小说春节",
+    "series": "对话",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 472,
+    "contest_name": "对话小说情人节",
+    "series": "对话",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 474,
+    "contest_name": "对话小说开学季",
+    "series": "对话",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 478,
+    "contest_name": "对话小说青春幻想",
+    "series": "对话",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 484,
+    "contest_name": "对话小说恋爱主题",
+    "series": "对话",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 482,
+    "contest_name": "分支对话小说",
+    "series": "对话",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 659,
+    "contest_name": "征文大赛对话小说组",
+    "series": "对话",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 622,
+    "contest_name": "春节征文·长篇",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 623,
+    "contest_name": "春节征文·短篇",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 624,
+    "contest_name": "春节征文·分支对话",
+    "series": "对话",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 698,
+    "contest_name": "2024对话小说春节",
+    "series": "对话",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 700,
+    "contest_name": "对话小说梦想季节",
+    "series": "对话",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 701,
+    "contest_name": "2024夏季征文对话组",
+    "series": "对话",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 729,
+    "contest_name": "2025对话小说新年",
+    "series": "对话",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 661,
+    "contest_name": "点鸭秋之偶像季",
+    "series": "对话",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  }
+]

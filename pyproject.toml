@@ -1,0 +1,8 @@
+[project]
+name = "contest-achieve"
+version = "0.1.0"
+description = "Centralized archive of SFACG contest rosters and awards, with a JSON-driven static site"
+requires-python = ">=3.11"
+dependencies = [
+    "requests>=2.28",
+]

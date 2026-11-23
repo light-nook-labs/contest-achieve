@@ -1,0 +1,20 @@
+{
+  "contest_track_id": 655,
+  "contest_name": "十一征-短篇",
+  "series": "X征",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:54:29+08:00",
+      "total_pages": 2,
+      "fetched_pages": [
+        0,
+        1
+      ],
+      "novel_count": 750,
+      "sha256": "08d66d0dedeb7f19315cbad93804cdb0766a5595799c0ca96e000fda76861234"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "contest_track_id": 471,
+  "contest_name": "对话小说春节",
+  "series": "对话",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:32+08:00",
+      "total_pages": 2,
+      "fetched_pages": [
+        0,
+        1
+      ],
+      "novel_count": 567,
+      "sha256": "6a62fab49d5d91758a7f629bd95349d2afbe9fb15181cfd12eabf87f043c725c"
+    }
+  ]
+}

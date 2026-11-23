@@ -1,0 +1,19 @@
+{
+  "contest_track_id": 467,
+  "contest_name": "战斗主题",
+  "series": "独立",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:12+08:00",
+      "total_pages": 1,
+      "fetched_pages": [
+        0
+      ],
+      "novel_count": 235,
+      "sha256": "f33a81b173729664a59f594a50c924fcac5c5af1cb7dae53236632460b7f59cc"
+    }
+  ]
+}

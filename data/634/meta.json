@@ -1,0 +1,20 @@
+{
+  "contest_track_id": 634,
+  "contest_name": "超新星杯短篇",
+  "series": "独立",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:30+08:00",
+      "total_pages": 2,
+      "fetched_pages": [
+        0,
+        1
+      ],
+      "novel_count": 672,
+      "sha256": "3b28375561288a9a6e4c350f7ec88ecece47903accc7dc20cdbb42be344d240f"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "contest_track_id": 454,
+  "contest_name": "四征冬征",
+  "series": "冬征",
+  "api_generation": "legacy",
+  "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:55:44+08:00",
+      "total_pages": 17,
+      "fetched_pages": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "novel_count": 3249,
+      "sha256": "159b667322c7583d8792ee69062b18d23c330f3ecc9eb4a41a45efb566695f98"
+    }
+  ]
+}

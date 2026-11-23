@@ -1,0 +1,20 @@
+{
+  "contest_track_id": 747,
+  "contest_name": "少年-二次元创想·长篇",
+  "series": "少年",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:07+08:00",
+      "total_pages": 2,
+      "fetched_pages": [
+        0,
+        1
+      ],
+      "novel_count": 605,
+      "sha256": "5d2f1ec526a069887be0c66f1545c195d6900d38c6761e578a43b1ad9c4914e8"
+    }
+  ]
+}

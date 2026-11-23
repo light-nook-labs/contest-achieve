@@ -1,0 +1,22 @@
+{
+  "contest_track_id": 459,
+  "contest_name": "九征-短篇",
+  "series": "X征",
+  "api_generation": "legacy",
+  "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:53:52+08:00",
+      "total_pages": 4,
+      "fetched_pages": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "novel_count": 783,
+      "sha256": "41a02befff2bba923855967462d51f8847b0b0b3b0520ca91198a93cca962e51"
+    }
+  ]
+}

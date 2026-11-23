@@ -1,0 +1,20 @@
+{
+  "contest_track_id": 480,
+  "contest_name": "少年-奇幻冒险",
+  "series": "少年",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:03+08:00",
+      "total_pages": 2,
+      "fetched_pages": [
+        0,
+        1
+      ],
+      "novel_count": 935,
+      "sha256": "b3bb24cb8d72b355b74c65149b895148721fb24eed5d0a7c97ce0aed07be687a"
+    }
+  ]
+}

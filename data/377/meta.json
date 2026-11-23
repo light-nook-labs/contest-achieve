@@ -1,0 +1,31 @@
+{
+  "contest_track_id": 377,
+  "contest_name": "五征-长篇",
+  "series": "X征",
+  "api_generation": "legacy",
+  "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:51:52+08:00",
+      "total_pages": 13,
+      "fetched_pages": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "novel_count": 2424,
+      "sha256": "d344b656162f892442b03651032ad44af696aff302640cdd5fa47930de8c97f9"
+    }
+  ]
+}

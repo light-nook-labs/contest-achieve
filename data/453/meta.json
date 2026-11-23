@@ -1,0 +1,21 @@
+{
+  "contest_track_id": 453,
+  "contest_name": "秋季恋爱",
+  "series": "独立",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:28+08:00",
+      "total_pages": 3,
+      "fetched_pages": [
+        0,
+        1,
+        2
+      ],
+      "novel_count": 1158,
+      "sha256": "2e832641ae1149546166bb8441a39f1436f14a2307fb54fde588f55eb86b7e73"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>赛事详情 · SFACG 征文归档</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body data-page="contest">
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html">SFACG 征文归档</a>
+      <nav class="nav">
+        <a href="index.html">赛事索引</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="app" class="container" v-cloak>
+    <div v-if="loading" class="state">正在加载赛事数据…</div>
+    <div v-else-if="error" class="alert">{{ error }}</div>
+
+    <template v-else-if="contest">
+      <div class="crumbs">
+        <a href="index.html">赛事索引</a><span>/</span><span>{{ contest.contest_name }}</span>
+      </div>
+
+      <section class="detail-head">
+        <div>
+          <h1>{{ contest.contest_name }}</h1>
+          <p class="lead detail-meta">
+            <span class="mono">#{{ contest.contest_track_id }}</span>
+            <span class="pill" :class="seriesClass(contest.series)">{{ contest.series }}</span>
+            <span class="api" :class="contest.api_generation">{{ contest.api_generation === 'modern' ? '新版接口' : '旧版接口' }}</span>
+          </p>
+        </div>
+        <div class="detail-stats">
+          <div><strong>{{ contest.roster_count.toLocaleString() }}</strong><span>清单条目</span></div>
+          <div><strong>{{ myAwards.length.toLocaleString() }}</strong><span>获奖条目</span></div>
+          <div><strong>{{ shortDate(contest.captured_at) }}</strong><span>最近采集</span></div>
+        </div>
+      </section>
+
+      <section class="panel" v-if="contest.collected">
+        <div class="panel-head">
+          <h2>参赛清单</h2>
+          <span class="muted">按需读取 <code>data/roster/{{ contest.contest_track_id }}.json</code></span>
+        </div>
+
+        <div class="toolbar">
+          <input class="input search" v-model.trim="rosterKeyword" type="search" placeholder="搜索书名 / 作者 / nid / 简介" />
+          <select class="input" v-model="formFilter">
+            <option value="">全部形式</option>
+            <option v-for="f in formOptions" :key="f" :value="f">{{ formLabel(f) }}</option>
+          </select>
+          <span class="muted count">显示 {{ filteredRoster.length }} / {{ roster.length }}</span>
+        </div>
+
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>nid</th>
+                <th>封面</th>
+                <th>书名</th>
+                <th>作者</th>
+                <th>形式</th>
+                <th>简介</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr v-for="r in pagedRoster" :key="r.nid">
+                <td><a class="mono" :href="bookUrl(r.nid)" target="_blank" rel="noopener">{{ r.nid }}</a></td>
+                <td class="cover">
+                  <img v-if="r.cover" :src="r.cover" alt="" loading="lazy" @error="$event.target.style.display='none'" />
+                  <span v-else class="cover-ph">—</span>
+                </td>
+                <td><a :href="bookUrl(r.nid)" target="_blank" rel="noopener">{{ r.title }}</a></td>
+                <td>{{ r.author || '—' }}</td>
+                <td><span class="pill">{{ formLabel(r.form_id) }}</span></td>
+                <td class="intro" :title="r.intro">{{ r.intro || '—' }}</td>
+              </tr>
+              <tr v-if="!filteredRoster.length">
+                <td class="empty" colspan="6">没有匹配的作品</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <pager :page="rosterPage" :page-size="rosterPageSize" :total="filteredRoster.length" @update:page="rosterPage = $event" />
+      </section>
+
+      <section class="panel" v-else>
+        <div class="note">该赛道的参赛清单尚未采集。获奖记录不受影响，仍可在下方查看；待运行采集器并重建站点后会自动出现。</div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-head">
+          <h2>获奖记录</h2>
+          <span class="muted">来自 <code>data/{{ contest.contest_track_id }}/awards.jsonl</code>，可人工校订</span>
+        </div>
+
+        <div class="toolbar" v-if="myAwards.length">
+          <input class="input search" v-model.trim="awardKeyword" type="search" placeholder="搜索书名 / nid / 奖项 / 来源 / 备注" />
+          <span class="muted count">显示 {{ filteredAwards.length }} / {{ myAwards.length }}</span>
+        </div>
+
+        <div class="table-wrap" v-if="myAwards.length">
+          <table>
+            <thead>
+              <tr>
+                <th>nid</th>
+                <th>书名</th>
+                <th>奖项</th>
+                <th>证据来源</th>
+                <th>核实</th>
+                <th>核实日期</th>
+                <th>备注</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr v-for="a in pagedAwards" :key="a.nid + '-' + a.award">
+                <td><a class="mono" :href="bookUrl(a.nid)" target="_blank" rel="noopener">{{ a.nid }}</a></td>
+                <td><a :href="bookUrl(a.nid)" target="_blank" rel="noopener">{{ a.title }}</a></td>
+                <td>
+                  <span class="badge" :class="a.award === '待逐档标定' ? 'pending' : 'award'">{{ a.award }}</span>
+                </td>
+                <td class="muted">{{ a.source || '—' }}</td>
+                <td>{{ a.verified ? '已核实' : '待核实' }}</td>
+                <td class="muted">{{ shortDate(a.verified_at) }}</td>
+                <td class="muted">{{ a.note || '—' }}</td>
+              </tr>
+              <tr v-if="!filteredAwards.length">
+                <td class="empty" colspan="7">没有匹配的获奖记录</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div v-else class="empty-block">本赛道暂无获奖记录。</div>
+
+        <pager :page="awardPage" :page-size="awardPageSize" :total="filteredAwards.length" @update:page="awardPage = $event" />
+      </section>
+    </template>
+  </main>
+
+  <footer class="site-footer">
+    <span>归档真值在 <code>data/</code>，本页只读取构建时导出的 JSON。</span>
+    <span>本地预览请通过 HTTP 服务访问，直接打开 HTML 会被浏览器禁止读取 JSON。</span>
+  </footer>
+
+  <script src="assets/vue.global.prod.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

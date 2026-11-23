@@ -1,0 +1,19 @@
+{
+  "contest_track_id": 623,
+  "contest_name": "春节征文·短篇",
+  "series": "独立",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:37+08:00",
+      "total_pages": 1,
+      "fetched_pages": [
+        0
+      ],
+      "novel_count": 89,
+      "sha256": "6fed5a7c4a4038d7cb090fd3cc3b627acfef71d7319557f8f4e09adbbb1693ba"
+    }
+  ]
+}

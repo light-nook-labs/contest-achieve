@@ -1,0 +1,20 @@
+{
+  "contest_track_id": 755,
+  "contest_name": "奇幻世界主题征文",
+  "series": "独立",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:09+08:00",
+      "total_pages": 2,
+      "fetched_pages": [
+        0,
+        1
+      ],
+      "novel_count": 880,
+      "sha256": "123426ed8294675dda1b81626f520f070dd8e9bd24ad78a4bf87c8f410d37af1"
+    }
+  ]
+}

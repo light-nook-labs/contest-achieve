@@ -1,0 +1,35 @@
+{
+  "contest_track_id": 794,
+  "contest_name": "十四征-短篇",
+  "series": "X征",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:00:02+08:00",
+      "sha256": "",
+      "total_pages": null,
+      "fetched_pages": [],
+      "novel_count": 0
+    },
+    {
+      "captured_at": "2026-11-23T16:00:50+08:00",
+      "sha256": "dfa98856f40b92d57287f32769d2befba0fc784ffda735b0d938e031300ffbe4",
+      "total_pages": 1,
+      "fetched_pages": [
+        0
+      ],
+      "novel_count": 481
+    },
+    {
+      "captured_at": "2026-11-23T16:54:57+08:00",
+      "total_pages": 1,
+      "fetched_pages": [
+        0
+      ],
+      "novel_count": 481,
+      "sha256": "ed4c9e87436c9decb1eaba2549713a210ff3e0d64ba78fc80b5ec83ed94e50ff"
+    }
+  ]
+}

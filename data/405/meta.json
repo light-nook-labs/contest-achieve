@@ -1,0 +1,20 @@
+{
+  "contest_track_id": 405,
+  "contest_name": "崩坏3",
+  "series": "独立",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:11+08:00",
+      "total_pages": 2,
+      "fetched_pages": [
+        0,
+        1
+      ],
+      "novel_count": 624,
+      "sha256": "d62e4d226bd4dc8c9738c13c7a6027b638270f49551735e1a2c3f95c08a77f35"
+    }
+  ]
+}

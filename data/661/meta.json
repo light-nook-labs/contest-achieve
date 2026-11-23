@@ -1,0 +1,19 @@
+{
+  "contest_track_id": 661,
+  "contest_name": "点鸭秋之偶像季",
+  "series": "对话",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:40+08:00",
+      "total_pages": 1,
+      "fetched_pages": [
+        0
+      ],
+      "novel_count": 395,
+      "sha256": "c826b1a7bcd560ea5c39869e36dd81d8867d3ec1ad8272e10faa417ae3d13946"
+    }
+  ]
+}

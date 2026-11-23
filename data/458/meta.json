@@ -1,0 +1,25 @@
+{
+  "contest_track_id": 458,
+  "contest_name": "九征-中篇",
+  "series": "X征",
+  "api_generation": "legacy",
+  "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:53:49+08:00",
+      "total_pages": 7,
+      "fetched_pages": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "novel_count": 1268,
+      "sha256": "3f822ab4f58386d02ef6967f314247bb3bda1501d5cab99a4616d9e2f4ee7a95"
+    }
+  ]
+}

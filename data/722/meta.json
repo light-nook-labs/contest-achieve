@@ -1,0 +1,20 @@
+{
+  "contest_track_id": 722,
+  "contest_name": "少年-幻想校园",
+  "series": "少年",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:05+08:00",
+      "total_pages": 2,
+      "fetched_pages": [
+        0,
+        1
+      ],
+      "novel_count": 620,
+      "sha256": "f5129a4043abc6e4c062a96c369e20a187010641536a7ca748a41db750e214c5"
+    }
+  ]
+}

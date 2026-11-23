@@ -1,0 +1,26 @@
+{
+  "contest_track_id": 417,
+  "contest_name": "幻想小说",
+  "series": "独立",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:23+08:00",
+      "total_pages": 8,
+      "fetched_pages": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "novel_count": 3973,
+      "sha256": "702580a418bf2b50e71bc361d22dfa89b8c3302d8c12c344d955771002d4e1f6"
+    }
+  ]
+}

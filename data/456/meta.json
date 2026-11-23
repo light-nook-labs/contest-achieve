@@ -1,0 +1,22 @@
+{
+  "contest_track_id": 456,
+  "contest_name": "玄幻征文",
+  "series": "独立",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:25+08:00",
+      "total_pages": 4,
+      "fetched_pages": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "novel_count": 1852,
+      "sha256": "38224b1813dc8229a614815a8d61b503568c8d07636016333ef331434b9f2214"
+    }
+  ]
+}

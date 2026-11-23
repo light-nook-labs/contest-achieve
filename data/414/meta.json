@@ -1,0 +1,21 @@
+{
+  "contest_track_id": 414,
+  "contest_name": "校园都市",
+  "series": "独立",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:16+08:00",
+      "total_pages": 3,
+      "fetched_pages": [
+        0,
+        1,
+        2
+      ],
+      "novel_count": 1248,
+      "sha256": "ffa086531a335f94d7ed603e93dfbcae1ac8843cf9e7dbc9088c6e1e23703e68"
+    }
+  ]
+}

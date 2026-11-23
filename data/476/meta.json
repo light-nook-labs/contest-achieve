@@ -1,0 +1,21 @@
+{
+  "contest_track_id": 476,
+  "contest_name": "十征-中篇",
+  "series": "X征",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:54:12+08:00",
+      "total_pages": 3,
+      "fetched_pages": [
+        0,
+        1,
+        2
+      ],
+      "novel_count": 1472,
+      "sha256": "7b0be26521cba27370885da31347d672923916b64796d3745fcea5dd52330823"
+    }
+  ]
+}

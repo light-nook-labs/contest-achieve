@@ -1,0 +1,21 @@
+{
+  "contest_track_id": 659,
+  "contest_name": "征文大赛对话小说组",
+  "series": "对话",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:36+08:00",
+      "total_pages": 3,
+      "fetched_pages": [
+        0,
+        1,
+        2
+      ],
+      "novel_count": 1093,
+      "sha256": "0d69bdc5cd6c39ced317d6e992c0050761431a358db8b62fee08bc3a46ee6d1b"
+    }
+  ]
+}

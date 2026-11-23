@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SFACG 征文赛事归档</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body data-page="index">
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html">SFACG 征文归档</a>
+      <nav class="nav">
+        <a class="active" href="index.html">赛事索引</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="app" class="container" v-cloak>
+    <div v-if="loading" class="state">正在加载归档数据…</div>
+    <div v-else-if="error" class="alert">{{ error }}</div>
+
+    <template v-else>
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">SFACG Contest Archive</p>
+          <h1>SFACG 征文赛事归档</h1>
+          <p class="lead">按赛道编号组织的参赛清单与获奖记录。数据来自公开征文接口与人工校订，作为长期稳定的归档来源。</p>
+        </div>
+        <div class="stats" v-if="site">
+          <div class="stat"><strong>{{ site.contests_total }}</strong><span>赛事赛道</span></div>
+          <div class="stat"><strong>{{ site.contests_collected }}</strong><span>已采清单</span></div>
+          <div class="stat"><strong>{{ site.roster_total.toLocaleString() }}</strong><span>清单条目</span></div>
+          <div class="stat"><strong>{{ site.award_total.toLocaleString() }}</strong><span>获奖条目</span></div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-head">
+          <h2>赛事列表</h2>
+          <span class="muted">构建于 {{ site ? site.built_at : '—' }}</span>
+        </div>
+
+        <div class="toolbar">
+          <input class="input search" v-model.trim="keyword" type="search" placeholder="搜索赛事名 / 赛道 ID / 系列" />
+          <div class="chips">
+            <button type="button" class="chip" :class="{ active: series === '' }" @click="series = ''">全部</button>
+            <button v-for="s in seriesList" :key="s" type="button" class="chip" :class="{ active: series === s }" @click="series = s">{{ s }}</button>
+          </div>
+          <span class="muted count">显示 {{ filtered.length }} / {{ contests.length }}</span>
+        </div>
+
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>赛道 ID</th>
+                <th>赛事名称</th>
+                <th>活动页</th>
+                <th>系列</th>
+                <th>接口</th>
+                <th class="num">清单</th>
+                <th class="num">获奖</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr v-for="c in paged" :key="c.contest_track_id">
+                <td><a class="mono" :href="contestUrl(c.contest_track_id)">{{ c.contest_track_id }}</a></td>
+                <td><a :href="contestUrl(c.contest_track_id)">{{ c.contest_name }}</a></td>
+                <td>
+                  <a v-if="c.activity_url" class="activity-link" :href="c.activity_url" target="_blank" rel="noopener noreferrer" title="打开官方活动页（获奖公示）">活动页 ↗</a>
+                  <span v-else class="muted" title="活动页已下线或未取到">—</span>
+                </td>
+                <td><span class="pill" :class="seriesClass(c.series)">{{ c.series }}</span></td>
+                <td><span class="api" :class="c.api_generation">{{ c.api_generation === 'modern' ? '新版接口' : '旧版接口' }}</span></td>
+                <td class="num">{{ c.roster_count.toLocaleString() }}</td>
+                <td class="num">
+                  <a v-if="c.award_count" class="award-link" :href="awardsUrl(c.contest_track_id)" :title="'查看 ' + c.contest_name + ' 的获奖列表'">{{ c.award_count }}</a>
+                  <span v-else class="muted">—</span>
+                </td>
+              </tr>
+              <tr v-if="!filtered.length">
+                <td class="empty" colspan="7">没有匹配的赛事</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <pager :page="page" :page-size="pageSize" :total="filtered.length" @update:page="page = $event" />
+      </section>
+    </template>
+  </main>
+
+  <footer class="site-footer">
+    <span>归档真值在 <code>data/</code>，本页只读取构建时导出的 JSON。</span>
+    <span>本地预览请通过 HTTP 服务访问，直接打开 HTML 会被浏览器禁止读取 JSON。</span>
+  </footer>
+
+  <script src="assets/vue.global.prod.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

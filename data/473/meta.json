@@ -1,0 +1,25 @@
+{
+  "contest_track_id": 473,
+  "contest_name": "2022春征",
+  "series": "春征",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:56:27+08:00",
+      "total_pages": 7,
+      "fetched_pages": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "novel_count": 3190,
+      "sha256": "1ea66143f29acc81a0751e4a7d48bd2d8f5b2afb4c578495db9505f272ec0812"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "contest_track_id": 675,
+  "contest_name": "怪谈异闻·长篇",
+  "series": "独立",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:30+08:00",
+      "total_pages": 1,
+      "fetched_pages": [
+        0
+      ],
+      "novel_count": 372,
+      "sha256": "315709af9ec2669f799befd4b865de7205ba054dace08ae587501d810d55f41b"
+    }
+  ]
+}

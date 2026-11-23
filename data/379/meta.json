@@ -1,0 +1,22 @@
+{
+  "contest_track_id": 379,
+  "contest_name": "五征-短篇",
+  "series": "X征",
+  "api_generation": "legacy",
+  "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:51:59+08:00",
+      "total_pages": 4,
+      "fetched_pages": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "novel_count": 732,
+      "sha256": "f041a936e1375db5d69102b6390c80ce7ee66b4ad61f06dfddd493423af1745b"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "contest_track_id": 691,
+  "contest_name": "冬季恋曲",
+  "series": "独立",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:31+08:00",
+      "total_pages": 1,
+      "fetched_pages": [
+        0
+      ],
+      "novel_count": 348,
+      "sha256": "dbc4088db4623456f414737ec84737f2dde4fa8ef74a2d71eb3abcd270bef8ff"
+    }
+  ]
+}

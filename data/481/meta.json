@@ -1,0 +1,22 @@
+{
+  "contest_track_id": 481,
+  "contest_name": "2022主题秋征",
+  "series": "秋征",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:56:49+08:00",
+      "total_pages": 4,
+      "fetched_pages": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "novel_count": 1945,
+      "sha256": "79d30849322ecd5162e02518d2287b6ec1dc97e7626edd32137c4206a43fe976"
+    }
+  ]
+}

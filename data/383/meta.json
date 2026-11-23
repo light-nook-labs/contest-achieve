@@ -1,0 +1,33 @@
+{
+  "contest_track_id": 383,
+  "contest_name": "六征-长篇",
+  "series": "X征",
+  "api_generation": "legacy",
+  "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:52:13+08:00",
+      "total_pages": 15,
+      "fetched_pages": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "novel_count": 2929,
+      "sha256": "8208e6cc3f3bf50e4f88f436fd451317b1cf3207d9effe80f07dc49b1a2dc60b"
+    }
+  ]
+}

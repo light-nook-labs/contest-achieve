@@ -1,0 +1,20 @@
+{
+  "contest_track_id": 276,
+  "contest_name": "四征-中篇",
+  "series": "X征",
+  "api_generation": "legacy",
+  "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:51:39+08:00",
+      "total_pages": 2,
+      "fetched_pages": [
+        0,
+        1
+      ],
+      "novel_count": 273,
+      "sha256": "267ce808c67158b80f6f2e4e4a54dde9526a939a2dba90d1dd7ccf88594fa107"
+    }
+  ]
+}

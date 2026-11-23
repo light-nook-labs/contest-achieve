@@ -1,0 +1,28 @@
+{
+  "contest_track_id": 462,
+  "contest_name": "九征-对话",
+  "series": "X征",
+  "api_generation": "legacy",
+  "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:54:00+08:00",
+      "total_pages": 10,
+      "fetched_pages": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "novel_count": 1954,
+      "sha256": "e0c8f203a2ac9edc669c8fcf8f6411623ab78ce29eb8e648865d487aeed790b4"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "contest_track_id": 418,
+  "contest_name": "八征-长篇",
+  "series": "X征",
+  "api_generation": "legacy",
+  "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:53:12+08:00",
+      "total_pages": 25,
+      "fetched_pages": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "novel_count": 4908,
+      "sha256": "c8700425d06cf345e0cd3945500483582ad36d7e5e898550881cf40fd171fd77"
+    }
+  ]
+}

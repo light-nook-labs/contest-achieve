@@ -1,0 +1,21 @@
+{
+  "contest_track_id": 465,
+  "contest_name": "2021异世大陆秋征",
+  "series": "秋征",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:56:46+08:00",
+      "total_pages": 3,
+      "fetched_pages": [
+        0,
+        1,
+        2
+      ],
+      "novel_count": 1287,
+      "sha256": "5ba462fa0f031a702c5aae29702ba80f6e9d092ee0481f55f89847f33658164d"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "contest_track_id": 464,
+  "contest_name": "2021东方世界秋征",
+  "series": "秋征",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:56:44+08:00",
+      "total_pages": 2,
+      "fetched_pages": [
+        0,
+        1
+      ],
+      "novel_count": 815,
+      "sha256": "086583270b9b8fac8a2428ac6275ae486ded4ae130d9f0c9f537f21f78904f13"
+    }
+  ]
+}

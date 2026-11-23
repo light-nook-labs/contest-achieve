@@ -1,0 +1,23 @@
+{
+  "contest_track_id": 774,
+  "contest_name": "九征冬征",
+  "series": "冬征",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:56:22+08:00",
+      "total_pages": 5,
+      "fetched_pages": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "novel_count": 2340,
+      "sha256": "2085f7c2fa7ffb74bb4df0e051302c421848f5a73d5441601f89c8b2e3604d4b"
+    }
+  ]
+}

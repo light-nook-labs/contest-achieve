@@ -1,0 +1,22 @@
+{
+  "contest_track_id": 479,
+  "contest_name": "十征-对话",
+  "series": "X征",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:54:17+08:00",
+      "total_pages": 4,
+      "fetched_pages": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "novel_count": 1691,
+      "sha256": "3d59d175c21aabb2e28b8836f569a37f68a5e8a28f808da2a7e8ef1fff1010de"
+    }
+  ]
+}

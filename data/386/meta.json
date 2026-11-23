@@ -1,0 +1,19 @@
+{
+  "contest_track_id": 386,
+  "contest_name": "六征-对话",
+  "series": "X征",
+  "api_generation": "legacy",
+  "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:52:19+08:00",
+      "total_pages": 1,
+      "fetched_pages": [
+        0
+      ],
+      "novel_count": 173,
+      "sha256": "03832e4b3af12d8ef0a8225cb880bfc9ac332469fce23dfb2f1176201d60485c"
+    }
+  ]
+}

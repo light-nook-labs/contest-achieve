@@ -1,0 +1,27 @@
+{
+  "contest_track_id": 653,
+  "contest_name": "十一征-长篇",
+  "series": "X征",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:54:25+08:00",
+      "total_pages": 9,
+      "fetched_pages": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "novel_count": 4193,
+      "sha256": "03057f45a7d6c73de1325786489842e2f0a45874fb83fb0dd856efe180ebed90"
+    }
+  ]
+}

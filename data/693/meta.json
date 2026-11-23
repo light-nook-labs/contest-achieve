@@ -1,0 +1,19 @@
+{
+  "contest_track_id": 693,
+  "contest_name": "2024主题短篇",
+  "series": "独立",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:31+08:00",
+      "total_pages": 1,
+      "fetched_pages": [
+        0
+      ],
+      "novel_count": 421,
+      "sha256": "9292488484a57bd8a673c004303af52114e9962186dead9fb0496f1c8908123d"
+    }
+  ]
+}

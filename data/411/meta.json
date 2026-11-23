@@ -1,0 +1,21 @@
+{
+  "contest_track_id": 411,
+  "contest_name": "七征-赛道4",
+  "series": "X征",
+  "api_generation": "legacy",
+  "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:52:49+08:00",
+      "total_pages": 3,
+      "fetched_pages": [
+        0,
+        1,
+        2
+      ],
+      "novel_count": 583,
+      "sha256": "7d06d29632886cd50f54af658d71a7f69842614ed135ca6a527dab157a61e766"
+    }
+  ]
+}

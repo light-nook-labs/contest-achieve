@@ -1,0 +1,20 @@
+{
+  "contest_track_id": 701,
+  "contest_name": "2024夏季征文对话组",
+  "series": "对话",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:39+08:00",
+      "total_pages": 2,
+      "fetched_pages": [
+        0,
+        1
+      ],
+      "novel_count": 713,
+      "sha256": "171c57b1c95a3886c170e3d5e178555b7dca7cff3ea57b0aa50b6ac744aaef62"
+    }
+  ]
+}

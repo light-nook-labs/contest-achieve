@@ -1,0 +1,25 @@
+{
+  "contest_track_id": 409,
+  "contest_name": "七征-赛道2",
+  "series": "X征",
+  "api_generation": "legacy",
+  "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:52:44+08:00",
+      "total_pages": 7,
+      "fetched_pages": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "novel_count": 1359,
+      "sha256": "684a544fab4e03c4a979f9cce1498287722056b14b16af4e5825c09d14668f9e"
+    }
+  ]
+}

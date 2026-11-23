@@ -1,0 +1,20 @@
+{
+  "contest_track_id": 660,
+  "contest_name": "少年-幻想之旅",
+  "series": "少年",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:57:04+08:00",
+      "total_pages": 2,
+      "fetched_pages": [
+        0,
+        1
+      ],
+      "novel_count": 999,
+      "sha256": "76dd26f8d21ff96cfb7860669dce136b768ba58f1fd3d42d4d835143a9305fa3"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "contest_track_id": 703,
+  "contest_name": "十二征-中篇",
+  "series": "X征",
+  "api_generation": "modern",
+  "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-23T16:54:38+08:00",
+      "total_pages": 3,
+      "fetched_pages": [
+        0,
+        1,
+        2
+      ],
+      "novel_count": 1186,
+      "sha256": "90b69233641892ed720bab2b69d4f572a36d9f89fbe7529d5a00db5586d014c6"
+    }
+  ]
+}
