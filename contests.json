@@ -690,7 +690,7 @@
     "api_generation": "modern",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": ""
+    "activity_url": "https://pages.sfacg.com/h5/act/fantasyzw2020/"
   },
   {
     "contest_track_id": 456,
