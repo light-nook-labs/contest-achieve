@@ -110,6 +110,7 @@
           contests: [],
           keyword: '',
           series: '',
+          sortDir: 'asc',
           page: 1,
           pageSize: 20,
           loading: true,
@@ -120,12 +121,15 @@
         seriesList: function () { return seriesOptions(this.contests); },
         filtered: function () {
           const kw = this.keyword.toLowerCase();
+          const dir = this.sortDir === 'desc' ? -1 : 1;
           return this.contests.filter(function (c) {
             if (this.series && c.series !== this.series) return false;
             if (!kw) return true;
             return [c.contest_track_id, c.contest_name, c.series, c.api_generation]
               .some(function (v) { return String(v).toLowerCase().includes(kw); });
-          }, this);
+          }, this).sort(function (a, b) {
+            return (a.contest_track_id - b.contest_track_id) * dir;
+          });
         },
         paged: function () {
           const start = (this.page - 1) * this.pageSize;
@@ -147,7 +151,13 @@
           this.loading = false;
         }
       },
-      methods: { shortDate, contestUrl, awardsUrl, seriesClass }
+      methods: {
+        shortDate, contestUrl, awardsUrl, seriesClass,
+        toggleSort: function () {
+          this.sortDir = this.sortDir === 'asc' ? 'desc' : 'asc';
+          this.page = 1;
+        }
+      }
     });
   }
 

@@ -54,7 +54,7 @@
           <table>
             <thead>
               <tr>
-                <th>赛道 ID</th>
+                <th><button type="button" class="sort-btn" @click="toggleSort" :title="sortDir === 'asc' ? '当前升序，点击切换为降序' : '当前降序，点击切换为升序'">赛道 ID <span class="sort-arrow">{{ sortDir === 'asc' ? '↑' : '↓' }}</span></button></th>
                 <th>赛事名称</th>
                 <th>活动页</th>
                 <th>系列</th>

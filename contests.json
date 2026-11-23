@@ -474,7 +474,7 @@
     "api_generation": "modern",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": ""
+    "activity_url": "https://pages.sfacg.com/h5/act/qjzw2021/"
   },
   {
     "contest_track_id": 465,
@@ -483,11 +483,11 @@
     "api_generation": "modern",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": ""
+    "activity_url": "https://pages.sfacg.com/h5/act/qjzw2021/"
   },
   {
     "contest_track_id": 481,
-    "contest_name": "2022主题秋征",
+    "contest_name": "2022主题秋征（少年的无限幻想）",
     "series": "秋征",
     "api_generation": "modern",
     "page_start": 0,
@@ -496,7 +496,7 @@
   },
   {
     "contest_track_id": 669,
-    "contest_name": "2023主题秋征",
+    "contest_name": "2023主题秋征（少年的奇迹历险）",
     "series": "秋征",
     "api_generation": "modern",
     "page_start": 0,
@@ -528,7 +528,7 @@
     "api_generation": "modern",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": ""
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_f2a2f388-2be0-45c1-9493-8ee660f1e31d.html"
   },
   {
     "contest_track_id": 480,
@@ -645,7 +645,7 @@
     "api_generation": "legacy",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
-    "activity_url": ""
+    "activity_url": "https://pages.sfacg.com/h5/act/fanszw202112/"
   },
   {
     "contest_track_id": 633,
@@ -654,7 +654,7 @@
     "api_generation": "modern",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": ""
+    "activity_url": "https://pages.sfacg.com/h5/act/dyzw20230329/"
   },
   {
     "contest_track_id": 469,
@@ -663,7 +663,7 @@
     "api_generation": "modern",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": ""
+    "activity_url": "https://pages.sfacg.com/h5/act/fanszw202112/"
   },
   {
     "contest_track_id": 382,
@@ -726,7 +726,7 @@
     "api_generation": "modern",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": ""
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20230331/"
   },
   {
     "contest_track_id": 675,
@@ -789,7 +789,7 @@
     "api_generation": "modern",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": ""
+    "activity_url": "https://pages.sfacg.com/h5/act/dyzw20220331/"
   },
   {
     "contest_track_id": 478,
