@@ -1,0 +1,19 @@
+{
+  "contest_track_id": 694,
+  "contest_name": "未知",
+  "series": "未知",
+  "api_generation": "legacy",
+  "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+  "page_start": 0,
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T10:01:23+08:00",
+      "total_pages": 1,
+      "fetched_pages": [
+        0
+      ],
+      "novel_count": 2,
+      "sha256": "eadb31f755b36989cb733f8ec1b1d2af2854fab555479b35188fa2db6563d5f9"
+    }
+  ]
+}

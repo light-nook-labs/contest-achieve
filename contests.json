@@ -1,5 +1,212 @@
 [
   {
+    "contest_track_id": 10,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 16,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 18,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 22,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 31,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 36,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 44,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 48,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 55,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 58,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 65,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 73,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 74,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 86,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 93,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 100,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 103,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 108,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 109,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 120,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 125,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 134,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 145,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
     "contest_track_id": 275,
     "contest_name": "四征-长篇",
     "series": "X征",
@@ -25,6 +232,33 @@
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
     "activity_url": "https://book.sfacg.com/zw2016/"
+  },
+  {
+    "contest_track_id": 278,
+    "contest_name": "楚楚动仁同人",
+    "series": "独立",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://book.sfacg.com/sp/migu"
+  },
+  {
+    "contest_track_id": 349,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 375,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
   },
   {
     "contest_track_id": 377,
@@ -63,6 +297,24 @@
     "activity_url": "https://book.sfacg.com/zw2017/"
   },
   {
+    "contest_track_id": 381,
+    "contest_name": "一征冬征",
+    "series": "冬征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/djzw2018/"
+  },
+  {
+    "contest_track_id": 382,
+    "contest_name": "校园恋爱",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/xyzw2018/"
+  },
+  {
     "contest_track_id": 383,
     "contest_name": "六征-长篇",
     "series": "X征",
@@ -97,6 +349,195 @@
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
     "activity_url": "https://pages.sfacg.com/h5/act/zw2018/"
+  },
+  {
+    "contest_track_id": 387,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 388,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 389,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 390,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 391,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 392,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 393,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 394,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 395,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 396,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 397,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 398,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 399,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 400,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 401,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 402,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 403,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 404,
+    "contest_name": "少女前线",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/sfxsq/"
+  },
+  {
+    "contest_track_id": 405,
+    "contest_name": "崩坏3",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/sfxbbb/"
+  },
+  {
+    "contest_track_id": 406,
+    "contest_name": "二征冬征",
+    "series": "冬征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/djzw2019/"
+  },
+  {
+    "contest_track_id": 407,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
   },
   {
     "contest_track_id": 408,
@@ -144,6 +585,51 @@
     "activity_url": "https://pages.sfacg.com/h5/act/zw2019/"
   },
   {
+    "contest_track_id": 413,
+    "contest_name": "龙之谷",
+    "series": "独立",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/sfxlzg/"
+  },
+  {
+    "contest_track_id": 414,
+    "contest_name": "校园都市",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/xyzw2019/"
+  },
+  {
+    "contest_track_id": 415,
+    "contest_name": "三征冬征",
+    "series": "冬征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/djzw2020/"
+  },
+  {
+    "contest_track_id": 416,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 417,
+    "contest_name": "幻想小说",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/fantasyzw2020/"
+  },
+  {
     "contest_track_id": 418,
     "contest_name": "八征-长篇",
     "series": "X征",
@@ -169,6 +655,312 @@
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
     "activity_url": "https://pages.sfacg.com/h5/act/zw2020/"
+  },
+  {
+    "contest_track_id": 421,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 422,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 423,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 424,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 425,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 426,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 427,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 428,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 429,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 430,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 431,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 433,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 434,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 435,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 437,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 438,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 439,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 440,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 441,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 442,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 443,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 444,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 445,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 446,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 447,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 448,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 449,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 450,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 451,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 452,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 453,
+    "contest_name": "秋季恋爱",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 454,
+    "contest_name": "四征冬征",
+    "series": "冬征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/pc/act/djzw2021/"
+  },
+  {
+    "contest_track_id": 455,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 456,
+    "contest_name": "玄幻征文",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
   },
   {
     "contest_track_id": 457,
@@ -207,6 +999,114 @@
     "activity_url": "https://pages.sfacg.com/h5/act/zw2021/"
   },
   {
+    "contest_track_id": 463,
+    "contest_name": "穿越主题",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 464,
+    "contest_name": "2021东方世界秋征",
+    "series": "秋征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/qjzw2021/"
+  },
+  {
+    "contest_track_id": 465,
+    "contest_name": "2021异世大陆秋征",
+    "series": "秋征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/qjzw2021/"
+  },
+  {
+    "contest_track_id": 466,
+    "contest_name": "五征冬征",
+    "series": "冬征",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/djzw2022/"
+  },
+  {
+    "contest_track_id": 467,
+    "contest_name": "战斗主题",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 468,
+    "contest_name": "失业魔王同人",
+    "series": "独立",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": "https://pages.sfacg.com/h5/act/fanszw202112/"
+  },
+  {
+    "contest_track_id": 469,
+    "contest_name": "英雄再临同人",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/fanszw202112/"
+  },
+  {
+    "contest_track_id": 470,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 471,
+    "contest_name": "对话小说春节",
+    "series": "对话",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 472,
+    "contest_name": "对话小说情人节",
+    "series": "对话",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 473,
+    "contest_name": "2022春征",
+    "series": "春征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20220301/"
+  },
+  {
+    "contest_track_id": 474,
+    "contest_name": "对话小说开学季",
+    "series": "对话",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/dyzw20220331/"
+  },
+  {
     "contest_track_id": 475,
     "contest_name": "十征-长篇",
     "series": "X征",
@@ -234,6 +1134,15 @@
     "activity_url": "https://pages.sfacg.com/h5/act/zw2022/"
   },
   {
+    "contest_track_id": 478,
+    "contest_name": "对话小说青春幻想",
+    "series": "对话",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
     "contest_track_id": 479,
     "contest_name": "十征-对话",
     "series": "X征",
@@ -241,294 +1150,6 @@
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
     "activity_url": "https://pages.sfacg.com/h5/act/zw2022/"
-  },
-  {
-    "contest_track_id": 653,
-    "contest_name": "十一征-长篇",
-    "series": "X征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw20230504/pc"
-  },
-  {
-    "contest_track_id": 654,
-    "contest_name": "十一征-中篇",
-    "series": "X征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw20230504/pc"
-  },
-  {
-    "contest_track_id": 655,
-    "contest_name": "十一征-短篇",
-    "series": "X征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw20230504/pc"
-  },
-  {
-    "contest_track_id": 702,
-    "contest_name": "十二征-长篇",
-    "series": "X征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw20240504/pc"
-  },
-  {
-    "contest_track_id": 703,
-    "contest_name": "十二征-中篇",
-    "series": "X征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw20240504/pc"
-  },
-  {
-    "contest_track_id": 704,
-    "contest_name": "十二征-短篇",
-    "series": "X征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw20240504/pc"
-  },
-  {
-    "contest_track_id": 752,
-    "contest_name": "十三征-长篇",
-    "series": "X征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw20250504/pc"
-  },
-  {
-    "contest_track_id": 753,
-    "contest_name": "十三征-中篇",
-    "series": "X征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw20250504/pc"
-  },
-  {
-    "contest_track_id": 754,
-    "contest_name": "十三征-短篇",
-    "series": "X征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw20250504/pc"
-  },
-  {
-    "contest_track_id": 793,
-    "contest_name": "十四征-长篇",
-    "series": "X征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw20260504/pc"
-  },
-  {
-    "contest_track_id": 794,
-    "contest_name": "十四征-短篇",
-    "series": "X征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw20260504/pc"
-  },
-  {
-    "contest_track_id": 381,
-    "contest_name": "一征冬征",
-    "series": "冬征",
-    "api_generation": "legacy",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
-    "activity_url": "https://pages.sfacg.com/h5/act/djzw2018/"
-  },
-  {
-    "contest_track_id": 406,
-    "contest_name": "二征冬征",
-    "series": "冬征",
-    "api_generation": "legacy",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
-    "activity_url": "https://pages.sfacg.com/h5/act/djzw2019/"
-  },
-  {
-    "contest_track_id": 415,
-    "contest_name": "三征冬征",
-    "series": "冬征",
-    "api_generation": "legacy",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
-    "activity_url": "https://pages.sfacg.com/h5/act/djzw2020/"
-  },
-  {
-    "contest_track_id": 454,
-    "contest_name": "四征冬征",
-    "series": "冬征",
-    "api_generation": "legacy",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
-    "activity_url": "https://pages.sfacg.com/pc/act/djzw2021/"
-  },
-  {
-    "contest_track_id": 466,
-    "contest_name": "五征冬征",
-    "series": "冬征",
-    "api_generation": "legacy",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
-    "activity_url": "https://pages.sfacg.com/h5/act/djzw2022/"
-  },
-  {
-    "contest_track_id": 485,
-    "contest_name": "六征冬征",
-    "series": "冬征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw20221205/"
-  },
-  {
-    "contest_track_id": 692,
-    "contest_name": "七征冬征",
-    "series": "冬征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw20231204/"
-  },
-  {
-    "contest_track_id": 726,
-    "contest_name": "八征冬征",
-    "series": "冬征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_c49534b9-73b2-46c9-a33f-b8144b448662.html"
-  },
-  {
-    "contest_track_id": 774,
-    "contest_name": "九征冬征",
-    "series": "冬征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_373481c3-8fb0-4113-83fb-5058a816f828.html"
-  },
-  {
-    "contest_track_id": 473,
-    "contest_name": "2022春征",
-    "series": "春征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw20220301/"
-  },
-  {
-    "contest_track_id": 632,
-    "contest_name": "2023春征",
-    "series": "春征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw20230301/"
-  },
-  {
-    "contest_track_id": 699,
-    "contest_name": "2024春征",
-    "series": "春征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw20240301/"
-  },
-  {
-    "contest_track_id": 746,
-    "contest_name": "2025春征",
-    "series": "春征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_d892261b-8719-4e3b-b01a-b84278b2996b.html"
-  },
-  {
-    "contest_track_id": 789,
-    "contest_name": "2026春征",
-    "series": "春征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_52f25c52-1de0-4608-90fc-293aac35a588.html"
-  },
-  {
-    "contest_track_id": 464,
-    "contest_name": "2021东方世界秋征",
-    "series": "秋征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/qjzw2021/"
-  },
-  {
-    "contest_track_id": 465,
-    "contest_name": "2021异世大陆秋征",
-    "series": "秋征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/qjzw2021/"
-  },
-  {
-    "contest_track_id": 481,
-    "contest_name": "2022主题秋征（少年的无限幻想）",
-    "series": "秋征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw20220930/"
-  },
-  {
-    "contest_track_id": 669,
-    "contest_name": "2023主题秋征（少年的奇迹历险）",
-    "series": "秋征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw20230930/"
-  },
-  {
-    "contest_track_id": 725,
-    "contest_name": "2024秋征",
-    "series": "秋征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_0a10b388-bf92-410c-801a-59c91b853c3f.html"
-  },
-  {
-    "contest_track_id": 772,
-    "contest_name": "2025秋征",
-    "series": "秋征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_d568a583-bde8-4f16-809a-8ab7097261be.html"
-  },
-  {
-    "contest_track_id": 803,
-    "contest_name": "2026秋征",
-    "series": "秋征",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_f2a2f388-2be0-45c1-9493-8ee660f1e31d.html"
   },
   {
     "contest_track_id": 480,
@@ -540,264 +1161,30 @@
     "activity_url": ""
   },
   {
-    "contest_track_id": 660,
-    "contest_name": "少年-幻想之旅",
-    "series": "少年",
+    "contest_track_id": 481,
+    "contest_name": "2022主题秋征（少年的无限幻想）",
+    "series": "秋征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20220930/"
+  },
+  {
+    "contest_track_id": 482,
+    "contest_name": "分支对话小说",
+    "series": "对话",
     "api_generation": "modern",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
     "activity_url": ""
   },
   {
-    "contest_track_id": 722,
-    "contest_name": "少年-幻想校园",
-    "series": "少年",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_7465fc4b-8c7e-4e23-a30c-721ec33ced8b.html"
-  },
-  {
-    "contest_track_id": 747,
-    "contest_name": "少年-二次元创想·长篇",
-    "series": "少年",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_775951e5-ac60-4df4-a8d3-4ffb64173398.html"
-  },
-  {
-    "contest_track_id": 748,
-    "contest_name": "少年-二次元创想·短篇",
-    "series": "少年",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_775951e5-ac60-4df4-a8d3-4ffb64173398.html"
-  },
-  {
-    "contest_track_id": 755,
-    "contest_name": "奇幻世界主题征文",
-    "series": "独立",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_e5950dc7-7f12-4fca-8049-8fd2afd9c0eb.html"
-  },
-  {
-    "contest_track_id": 724,
-    "contest_name": "点鸭秋色回忆",
-    "series": "对话",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_c7ff7adf-4f9d-416d-a5e0-796683eb6763.html"
-  },
-  {
-    "contest_track_id": 278,
-    "contest_name": "楚楚动仁同人",
-    "series": "独立",
+    "contest_track_id": 483,
+    "contest_name": "未知",
+    "series": "未知",
     "api_generation": "legacy",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
-    "activity_url": "https://book.sfacg.com/sp/migu"
-  },
-  {
-    "contest_track_id": 404,
-    "contest_name": "少女前线",
-    "series": "独立",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/sfxsq/"
-  },
-  {
-    "contest_track_id": 405,
-    "contest_name": "崩坏3",
-    "series": "独立",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/sfxbbb/"
-  },
-  {
-    "contest_track_id": 413,
-    "contest_name": "龙之谷",
-    "series": "独立",
-    "api_generation": "legacy",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
-    "activity_url": "https://pages.sfacg.com/h5/act/sfxlzg/"
-  },
-  {
-    "contest_track_id": 467,
-    "contest_name": "战斗主题",
-    "series": "独立",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": ""
-  },
-  {
-    "contest_track_id": 468,
-    "contest_name": "失业魔王同人",
-    "series": "独立",
-    "api_generation": "legacy",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
-    "activity_url": "https://pages.sfacg.com/h5/act/fanszw202112/"
-  },
-  {
-    "contest_track_id": 633,
-    "contest_name": "星穹小说家",
-    "series": "独立",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/dyzw20230329/"
-  },
-  {
-    "contest_track_id": 469,
-    "contest_name": "英雄再临同人",
-    "series": "独立",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/fanszw202112/"
-  },
-  {
-    "contest_track_id": 382,
-    "contest_name": "校园恋爱",
-    "series": "独立",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/xyzw2018/"
-  },
-  {
-    "contest_track_id": 414,
-    "contest_name": "校园都市",
-    "series": "独立",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/xyzw2019/"
-  },
-  {
-    "contest_track_id": 417,
-    "contest_name": "幻想小说",
-    "series": "独立",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/fantasyzw2020/"
-  },
-  {
-    "contest_track_id": 456,
-    "contest_name": "玄幻征文",
-    "series": "独立",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": ""
-  },
-  {
-    "contest_track_id": 453,
-    "contest_name": "秋季恋爱",
-    "series": "独立",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": ""
-  },
-  {
-    "contest_track_id": 463,
-    "contest_name": "穿越主题",
-    "series": "独立",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": ""
-  },
-  {
-    "contest_track_id": 634,
-    "contest_name": "超新星杯短篇",
-    "series": "独立",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw20230331/"
-  },
-  {
-    "contest_track_id": 675,
-    "contest_name": "怪谈异闻·长篇",
-    "series": "独立",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": ""
-  },
-  {
-    "contest_track_id": 676,
-    "contest_name": "怪谈异闻·短篇",
-    "series": "独立",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": ""
-  },
-  {
-    "contest_track_id": 691,
-    "contest_name": "冬季恋曲",
-    "series": "独立",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": ""
-  },
-  {
-    "contest_track_id": 693,
-    "contest_name": "2024主题短篇",
-    "series": "独立",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/zw20240105/"
-  },
-  {
-    "contest_track_id": 471,
-    "contest_name": "对话小说春节",
-    "series": "对话",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": ""
-  },
-  {
-    "contest_track_id": 472,
-    "contest_name": "对话小说情人节",
-    "series": "对话",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": ""
-  },
-  {
-    "contest_track_id": 474,
-    "contest_name": "对话小说开学季",
-    "series": "对话",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
-    "activity_url": "https://pages.sfacg.com/h5/act/dyzw20220331/"
-  },
-  {
-    "contest_track_id": 478,
-    "contest_name": "对话小说青春幻想",
-    "series": "对话",
-    "api_generation": "modern",
-    "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
     "activity_url": ""
   },
   {
@@ -810,21 +1197,1227 @@
     "activity_url": ""
   },
   {
-    "contest_track_id": 482,
-    "contest_name": "分支对话小说",
-    "series": "对话",
+    "contest_track_id": 485,
+    "contest_name": "六征冬征",
+    "series": "冬征",
     "api_generation": "modern",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20221205/"
+  },
+  {
+    "contest_track_id": 486,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
     "activity_url": ""
   },
   {
-    "contest_track_id": 659,
-    "contest_name": "征文大赛对话小说组",
-    "series": "对话",
-    "api_generation": "modern",
+    "contest_track_id": 487,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
     "page_start": 0,
-    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 488,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 490,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 491,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 492,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 493,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 494,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 495,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 496,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 497,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 498,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 499,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 500,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 501,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 502,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 503,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 504,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 505,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 506,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 507,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 508,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 509,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 510,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 511,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 512,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 513,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 514,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 515,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 516,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 517,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 518,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 519,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 520,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 521,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 522,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 523,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 524,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 525,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 526,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 527,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 528,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 529,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 530,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 531,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 532,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 533,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 534,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 535,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 536,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 537,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 538,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 539,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 540,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 541,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 542,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 543,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 544,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 545,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 546,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 547,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 548,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 549,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 550,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 551,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 552,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 553,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 554,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 555,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 556,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 557,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 558,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 559,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 560,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 561,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 562,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 563,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 564,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 565,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 566,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 567,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 568,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 569,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 570,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 571,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 572,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 573,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 574,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 575,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 576,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 577,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 578,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 579,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 580,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 581,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 582,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 583,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 584,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 585,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 586,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 587,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 588,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 589,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 590,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 591,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 592,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 593,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 594,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 595,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 596,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 597,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 598,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 599,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 600,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 601,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 602,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 603,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 604,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 605,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 606,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 607,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 608,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 609,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 610,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 611,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 612,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 613,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 614,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 615,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 616,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 617,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 618,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 619,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 620,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 621,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
     "activity_url": ""
   },
   {
@@ -855,6 +2448,636 @@
     "activity_url": ""
   },
   {
+    "contest_track_id": 625,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 626,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 627,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 628,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 629,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 630,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 631,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 632,
+    "contest_name": "2023春征",
+    "series": "春征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20230301/"
+  },
+  {
+    "contest_track_id": 633,
+    "contest_name": "星穹小说家",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/dyzw20230329/"
+  },
+  {
+    "contest_track_id": 634,
+    "contest_name": "超新星杯短篇",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20230331/"
+  },
+  {
+    "contest_track_id": 635,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 636,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 637,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 638,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 639,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 640,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 641,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 642,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 643,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 644,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 645,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 646,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 647,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 648,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 649,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 650,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 651,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 652,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 653,
+    "contest_name": "十一征-长篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20230504/pc"
+  },
+  {
+    "contest_track_id": 654,
+    "contest_name": "十一征-中篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20230504/pc"
+  },
+  {
+    "contest_track_id": 655,
+    "contest_name": "十一征-短篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20230504/pc"
+  },
+  {
+    "contest_track_id": 656,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 657,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 658,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 659,
+    "contest_name": "征文大赛对话小说组",
+    "series": "对话",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 660,
+    "contest_name": "少年-幻想之旅",
+    "series": "少年",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 661,
+    "contest_name": "点鸭秋之偶像季",
+    "series": "对话",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 665,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 666,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 667,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 668,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 669,
+    "contest_name": "2023主题秋征（少年的奇迹历险）",
+    "series": "秋征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20230930/"
+  },
+  {
+    "contest_track_id": 670,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 671,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 672,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 673,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 674,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 675,
+    "contest_name": "怪谈异闻·长篇",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 676,
+    "contest_name": "怪谈异闻·短篇",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 677,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 678,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 679,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 680,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 681,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 682,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 683,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 684,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 685,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 686,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 687,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 688,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 689,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 690,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 691,
+    "contest_name": "冬季恋曲",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 692,
+    "contest_name": "七征冬征",
+    "series": "冬征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20231204/"
+  },
+  {
+    "contest_track_id": 693,
+    "contest_name": "2024主题短篇",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20240105/"
+  },
+  {
+    "contest_track_id": 694,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 695,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 696,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 697,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
     "contest_track_id": 698,
     "contest_name": "2024对话小说春节",
     "series": "对话",
@@ -862,6 +3085,15 @@
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
     "activity_url": ""
+  },
+  {
+    "contest_track_id": 699,
+    "contest_name": "2024春征",
+    "series": "春征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20240301/"
   },
   {
     "contest_track_id": 700,
@@ -882,6 +3114,249 @@
     "activity_url": ""
   },
   {
+    "contest_track_id": 702,
+    "contest_name": "十二征-长篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20240504/pc"
+  },
+  {
+    "contest_track_id": 703,
+    "contest_name": "十二征-中篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20240504/pc"
+  },
+  {
+    "contest_track_id": 704,
+    "contest_name": "十二征-短篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20240504/pc"
+  },
+  {
+    "contest_track_id": 705,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 706,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 707,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 708,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 709,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 710,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 711,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 712,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 713,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 714,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 715,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 716,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 717,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 718,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 719,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 720,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 721,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 722,
+    "contest_name": "少年-幻想校园",
+    "series": "少年",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_7465fc4b-8c7e-4e23-a30c-721ec33ced8b.html"
+  },
+  {
+    "contest_track_id": 723,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 724,
+    "contest_name": "点鸭秋色回忆",
+    "series": "对话",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_c7ff7adf-4f9d-416d-a5e0-796683eb6763.html"
+  },
+  {
+    "contest_track_id": 725,
+    "contest_name": "2024秋征",
+    "series": "秋征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_0a10b388-bf92-410c-801a-59c91b853c3f.html"
+  },
+  {
+    "contest_track_id": 726,
+    "contest_name": "八征冬征",
+    "series": "冬征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_c49534b9-73b2-46c9-a33f-b8144b448662.html"
+  },
+  {
+    "contest_track_id": 727,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 728,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
     "contest_track_id": 729,
     "contest_name": "2025对话小说新年",
     "series": "对话",
@@ -891,12 +3366,660 @@
     "activity_url": ""
   },
   {
-    "contest_track_id": 661,
-    "contest_name": "点鸭秋之偶像季",
-    "series": "对话",
+    "contest_track_id": 730,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 731,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 732,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 733,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 734,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 735,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 736,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 737,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 738,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 739,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 740,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 741,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 742,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 743,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 744,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 745,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 746,
+    "contest_name": "2025春征",
+    "series": "春征",
     "api_generation": "modern",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_d892261b-8719-4e3b-b01a-b84278b2996b.html"
+  },
+  {
+    "contest_track_id": 747,
+    "contest_name": "少年-二次元创想·长篇",
+    "series": "少年",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_775951e5-ac60-4df4-a8d3-4ffb64173398.html"
+  },
+  {
+    "contest_track_id": 748,
+    "contest_name": "少年-二次元创想·短篇",
+    "series": "少年",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_775951e5-ac60-4df4-a8d3-4ffb64173398.html"
+  },
+  {
+    "contest_track_id": 749,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
     "activity_url": ""
+  },
+  {
+    "contest_track_id": 750,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 751,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 752,
+    "contest_name": "十三征-长篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20250504/pc"
+  },
+  {
+    "contest_track_id": 753,
+    "contest_name": "十三征-中篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20250504/pc"
+  },
+  {
+    "contest_track_id": 754,
+    "contest_name": "十三征-短篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20250504/pc"
+  },
+  {
+    "contest_track_id": 755,
+    "contest_name": "奇幻世界主题征文",
+    "series": "独立",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_e5950dc7-7f12-4fca-8049-8fd2afd9c0eb.html"
+  },
+  {
+    "contest_track_id": 757,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 758,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 759,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 760,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 761,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 762,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 763,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 764,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 765,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 766,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 767,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 768,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 769,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 770,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 771,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 772,
+    "contest_name": "2025秋征",
+    "series": "秋征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_d568a583-bde8-4f16-809a-8ab7097261be.html"
+  },
+  {
+    "contest_track_id": 773,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 774,
+    "contest_name": "九征冬征",
+    "series": "冬征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_373481c3-8fb0-4113-83fb-5058a816f828.html"
+  },
+  {
+    "contest_track_id": 775,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 776,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 777,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 778,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 779,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 780,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 781,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 782,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 783,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 784,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 785,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 786,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 787,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 788,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 789,
+    "contest_name": "2026春征",
+    "series": "春征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_52f25c52-1de0-4608-90fc-293aac35a588.html"
+  },
+  {
+    "contest_track_id": 790,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 791,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 792,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 793,
+    "contest_name": "十四征-长篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20260504/pc"
+  },
+  {
+    "contest_track_id": 794,
+    "contest_name": "十四征-短篇",
+    "series": "X征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw20260504/pc"
+  },
+  {
+    "contest_track_id": 795,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 796,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 797,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 798,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 799,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 800,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 801,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 802,
+    "contest_name": "未知",
+    "series": "未知",
+    "api_generation": "legacy",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
+    "activity_url": ""
+  },
+  {
+    "contest_track_id": 803,
+    "contest_name": "2026秋征",
+    "series": "秋征",
+    "api_generation": "modern",
+    "page_start": 0,
+    "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
+    "activity_url": "https://pages.sfacg.com/h5/act/zw/essayActivity_f2a2f388-2be0-45c1-9493-8ee660f1e31d.html"
   }
 ]
