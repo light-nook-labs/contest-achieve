@@ -1351,9 +1351,9 @@
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
     "activity_url": "https://pages.sfacg.com/h5/act/qjzw2021/",
-    "start_date": "",
-    "end_date": "",
-    "result_date": ""
+    "start_date": "2021-09-30",
+    "end_date": "2021-12-03",
+    "result_date": "2022-01-20"
   },
   {
     "contest_track_id": 465,
@@ -1363,9 +1363,9 @@
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
     "activity_url": "https://pages.sfacg.com/h5/act/qjzw2021/",
-    "start_date": "",
-    "end_date": "",
-    "result_date": ""
+    "start_date": "2021-09-30",
+    "end_date": "2021-12-03",
+    "result_date": "2022-01-20"
   },
   {
     "contest_track_id": 466,
@@ -3362,14 +3362,14 @@
   {
     "contest_track_id": 633,
     "contest_name": "星穹小说家",
-    "series": "独立",
+    "series": "对话",
     "api_generation": "modern",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
     "activity_url": "https://pages.sfacg.com/h5/act/dyzw20230329/",
-    "start_date": "",
-    "end_date": "",
-    "result_date": ""
+    "start_date": "2023-03-29",
+    "end_date": "2023-05-08",
+    "result_date": "2023-05-19"
   },
   {
     "contest_track_id": 634,
@@ -3379,14 +3379,14 @@
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/api/essay/getNovels?tagIds={contest_track_id}&page={page}&size={size}",
     "activity_url": "https://pages.sfacg.com/h5/act/zw20230331/",
-    "start_date": "",
-    "end_date": "",
-    "result_date": ""
+    "start_date": "2023-04-01",
+    "end_date": "2023-04-30",
+    "result_date": "2023-05-11"
   },
   {
     "contest_track_id": 635,
     "contest_name": "一征-金奖",
-    "series": "一征",
+    "series": "X征",
     "api_generation": "legacy",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
@@ -3398,7 +3398,7 @@
   {
     "contest_track_id": 636,
     "contest_name": "一征-银奖",
-    "series": "一征",
+    "series": "X征",
     "api_generation": "legacy",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
@@ -3410,7 +3410,7 @@
   {
     "contest_track_id": 637,
     "contest_name": "一征-铜奖",
-    "series": "一征",
+    "series": "X征",
     "api_generation": "legacy",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
@@ -3422,7 +3422,7 @@
   {
     "contest_track_id": 638,
     "contest_name": "二征-金奖",
-    "series": "二征",
+    "series": "X征",
     "api_generation": "legacy",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
@@ -3434,7 +3434,7 @@
   {
     "contest_track_id": 639,
     "contest_name": "二征-银奖",
-    "series": "二征",
+    "series": "X征",
     "api_generation": "legacy",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
@@ -3446,7 +3446,7 @@
   {
     "contest_track_id": 640,
     "contest_name": "二征-铜奖",
-    "series": "二征",
+    "series": "X征",
     "api_generation": "legacy",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
@@ -3458,7 +3458,7 @@
   {
     "contest_track_id": 641,
     "contest_name": "三征-长篇金奖",
-    "series": "三征",
+    "series": "X征",
     "api_generation": "legacy",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
@@ -3470,7 +3470,7 @@
   {
     "contest_track_id": 642,
     "contest_name": "三征-长篇银奖",
-    "series": "三征",
+    "series": "X征",
     "api_generation": "legacy",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
@@ -3482,7 +3482,7 @@
   {
     "contest_track_id": 643,
     "contest_name": "三征-长篇铜奖",
-    "series": "三征",
+    "series": "X征",
     "api_generation": "legacy",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
@@ -3494,7 +3494,7 @@
   {
     "contest_track_id": 644,
     "contest_name": "三征-中篇金奖",
-    "series": "三征",
+    "series": "X征",
     "api_generation": "legacy",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
@@ -3506,7 +3506,7 @@
   {
     "contest_track_id": 645,
     "contest_name": "三征-中篇银奖",
-    "series": "三征",
+    "series": "X征",
     "api_generation": "legacy",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
@@ -3518,7 +3518,7 @@
   {
     "contest_track_id": 646,
     "contest_name": "三征-中篇铜奖",
-    "series": "三征",
+    "series": "X征",
     "api_generation": "legacy",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
@@ -3530,7 +3530,7 @@
   {
     "contest_track_id": 647,
     "contest_name": "三征-短篇金奖",
-    "series": "三征",
+    "series": "X征",
     "api_generation": "legacy",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
@@ -3542,7 +3542,7 @@
   {
     "contest_track_id": 648,
     "contest_name": "三征-短篇银奖",
-    "series": "三征",
+    "series": "X征",
     "api_generation": "legacy",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
@@ -3554,7 +3554,7 @@
   {
     "contest_track_id": 649,
     "contest_name": "三征-短篇铜奖",
-    "series": "三征",
+    "series": "X征",
     "api_generation": "legacy",
     "page_start": 0,
     "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",
