@@ -53,8 +53,8 @@ uv run python tools/build_site.py
 
 | Path | Role |
 |---|---|
-| `contests.json` | 100-track registry: `contest_track_id`, `contest_name`, `series`, `api_generation`, `page_start`, `url_template`, `activity_url` (official event page; source: novly-proj `docs/contest-roster-harvest.md` §2; empty when page is down/unknown) |
-| `schema/roster.md`, `schema/awards.md` | Canonical record formats |
+| `contests.json` | Track registry: `contest_track_id`, `contest_name`, `series`, `api_generation`, `page_start`, `url_template`, `activity_url`, `start_date` / `end_date` / `result_date` (see `schema/contests.md`; only documented dates, empty string when unknown) |
+| `schema/contests.md`, `schema/roster.md`, `schema/awards.md` | Canonical record formats |
 | `data/<contest_track_id>/{meta.json,roster.jsonl,awards.jsonl}` | Per-track archive |
 | `tools/harvest.py` | Collector with normalization and resume |
 | `tools/verify.py` | Schema/coverage validator |

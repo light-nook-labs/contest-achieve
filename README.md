@@ -16,9 +16,10 @@ sfacg 征文赛事的**集中化归档**。目的：活动页随时可能下线�
 contest-achieve/
 ├── README.md
 ├── schema/
+│   ├── contests.md       赛事注册表字段（含起止/公布日期口径）
 │   ├── roster.md         参赛清单记录格式
 │   └── awards.md         获奖记录格式
-├── contests.json         赛事注册表：100 个赛道的 ID/名称/系列/接口/清单 URL 模板/活动页 URL
+├── contests.json         注册表：447 个赛道（100 赛事 + 347 未知 ID）的 ID/名称/系列/接口/活动页/日期
 ├── data/<contest_track_id>/
 │   ├── meta.json         赛事元数据 + 抓取快照记录
 │   ├── roster.jsonl      参赛清单（统一格式，每行一条）
@@ -34,6 +35,7 @@ contest-achieve/
 │   ├── import_awards.py  一次性获奖迁移脚本
 │   ├── migrate_keys.py   一次性键名迁移（幂等，已执行）
 │   ├── add_activity_urls.py 一次性补活动页 URL（幂等，已执行）
+│   ├── add_contest_dates.py 一次性补赛事起止/公布日期（幂等，已执行）
 │   └── build_site.py     导出 JSON + 复制静态壳 → docs/
 └── docs/                 发布目录（GitHub Pages 从此目录 serve）
 ```

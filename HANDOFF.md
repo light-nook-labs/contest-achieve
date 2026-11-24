@@ -7,6 +7,9 @@
 - **赛事注册表**：`contests.json` 共 100 个赛道，主键 `contest_track_id`。
   每条含 `contest_name` / `series` / `api_generation`（`legacy`/`modern`）/ `page_start` /
   `url_template`（清单 API 模板，占位符 `{contest_track_id}`）/ `activity_url`（官方活动页）。
+- **赛事日期**：`contests.json` 新增 `start_date` / `end_date` / `result_date`（`YYYY-MM-DD`，未知留空）。
+  当前 33 个赛道有日期：56 个字段（30 起 / 15 止 / 11 公布），来源与写入规则见 `schema/contests.md`；
+  由 `tools/add_contest_dates.py` 幂等迁移，首页赛事表与详情页展示，未知 ID 不展示日期。
 - **活动页 URL**：100 条中 **61 条有 `activity_url`**，39 条页面下线或未取到（留空）。
   来源为 novly-proj `docs/contest-roster-harvest.md` §2 权威台账，由 `tools/add_activity_urls.py` 迁移。
   首页赛事列表可直接点开活动页查找获奖公示。**UUID 页必须用完整 UUID + `.html`，短 hash 会 404。**

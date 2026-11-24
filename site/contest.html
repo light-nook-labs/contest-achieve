@@ -32,6 +32,8 @@
             <span class="mono">#{{ contest.contest_track_id }}</span>
             <span class="pill" :class="seriesClass(contest.series)">{{ contest.series }}</span>
             <span class="api" :class="contest.api_generation">{{ contest.api_generation === 'modern' ? '新版接口' : '旧版接口' }}</span>
+            <span v-if="contest.start_date || contest.end_date" class="date-inline">征稿 {{ dateRange(contest) }}</span>
+            <span v-if="c.result_date" class="date-inline">公布 {{ contest.result_date }}</span>
           </p>
         </div>
         <div class="detail-stats">

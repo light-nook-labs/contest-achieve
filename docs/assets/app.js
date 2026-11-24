@@ -4,6 +4,7 @@
 
   const FORM_NAMES = { 0: '长篇 / 中篇', 1: '对话小说', 3: '短篇' };
   const SERIES_ORDER = ['X征', '冬征', '春征', '秋征', '少年', '对话', '独立'];
+  const UNKNOWN_SERIES = '未知';
   const SERIES_CLASS = {
     'X征': 'x', '冬征': 'winter', '春征': 'spring', '秋征': 'autumn',
     '少年': 'junior', '对话': 'dialogue', '独立': 'solo'
@@ -24,6 +25,16 @@
     return value ? String(value).slice(0, 10) : '—';
   }
 
+  function dateRange(c) {
+    if (!c) return '—';
+    const start = c.start_date || '';
+    const end = c.end_date || '';
+    if (start && end) return start + ' → ' + end;
+    if (start) return start + ' 起';
+    if (end) return '截至 ' + end;
+    return '—';
+  }
+
   function formLabel(id) {
     if (Object.prototype.hasOwnProperty.call(FORM_NAMES, id)) return FORM_NAMES[id];
     if (id === '' || id === null || id === undefined) return '—';
@@ -32,6 +43,7 @@
 
   function seriesOptions(contests) {
     const set = new Set(contests.map(function (c) { return c.series; }).filter(Boolean));
+    set.delete(UNKNOWN_SERIES);
     return SERIES_ORDER.filter(function (s) { return set.has(s); })
       .concat(Array.from(set).filter(function (s) { return !SERIES_ORDER.includes(s); }));
   }
@@ -108,6 +120,7 @@
         return {
           site: null,
           contests: [],
+          tab: 'contest',
           keyword: '',
           series: '',
           sortDir: 'asc',
@@ -118,12 +131,17 @@
         };
       },
       computed: {
-        seriesList: function () { return seriesOptions(this.contests); },
+        rows: function () {
+          return this.tab === 'unknown'
+            ? this.contests.filter(function (c) { return c.series === UNKNOWN_SERIES; })
+            : this.contests.filter(function (c) { return c.series !== UNKNOWN_SERIES; });
+        },
+        seriesList: function () { return seriesOptions(this.rows); },
         filtered: function () {
           const kw = this.keyword.toLowerCase();
           const dir = this.sortDir === 'desc' ? -1 : 1;
-          return this.contests.filter(function (c) {
-            if (this.series && c.series !== this.series) return false;
+          return this.rows.filter(function (c) {
+            if (this.tab === 'contest' && this.series && c.series !== this.series) return false;
             if (!kw) return true;
             return [c.contest_track_id, c.contest_name, c.series, c.api_generation]
               .some(function (v) { return String(v).toLowerCase().includes(kw); });
@@ -134,11 +152,28 @@
         paged: function () {
           const start = (this.page - 1) * this.pageSize;
           return this.filtered.slice(start, start + this.pageSize);
+        },
+        displayStats: function () {
+          const s = this.site || {};
+          if (this.tab === 'unknown') {
+            return [
+              { value: s.unknown_total || 0, label: '未知 ID' },
+              { value: s.unknown_collected || 0, label: '已采清单' },
+              { value: (s.unknown_roster_total || 0).toLocaleString(), label: '清单条目' }
+            ];
+          }
+          return [
+            { value: s.contests_total || 0, label: '赛事赛道' },
+            { value: s.contests_collected || 0, label: '已采清单' },
+            { value: (s.roster_total || 0).toLocaleString(), label: '清单条目' },
+            { value: (s.award_total || 0).toLocaleString(), label: '获奖条目' }
+          ];
         }
       },
       watch: {
         keyword: function () { this.page = 1; },
-        series: function () { this.page = 1; }
+        series: function () { this.page = 1; },
+        tab: function () { this.page = 1; this.series = ''; }
       },
       async mounted() {
         try {
@@ -152,7 +187,10 @@
         }
       },
       methods: {
-        shortDate, contestUrl, awardsUrl, seriesClass,
+        shortDate, dateRange, contestUrl, awardsUrl, seriesClass,
+        switchTab: function (name) {
+          this.tab = name;
+        },
         toggleSort: function () {
           this.sortDir = this.sortDir === 'asc' ? 'desc' : 'asc';
           this.page = 1;
@@ -244,7 +282,7 @@
           this.loading = false;
         }
       },
-      methods: { shortDate, formLabel, bookUrl, seriesClass }
+      methods: { shortDate, dateRange, formLabel, bookUrl, seriesClass }
     });
   }
 

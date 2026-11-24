@@ -70,6 +70,9 @@ def build_contest_rows(cfgs):
             "api_generation": cfg["api_generation"],
             "url_template": cfg["url_template"],
             "activity_url": cfg.get("activity_url", ""),
+            "start_date": cfg.get("start_date", ""),
+            "end_date": cfg.get("end_date", ""),
+            "result_date": cfg.get("result_date", ""),
             "page_start": cfg.get("page_start", 0),
             "roster_count": len(roster),
             "award_count": len(awards),
@@ -90,6 +93,9 @@ def main():
 
     cfgs = load_json(os.path.join(ROOT, "contests.json"))
     contests = build_contest_rows(cfgs)
+    # 「未知」只是有清单接口的 tag id，尚不能确认为赛事，统计与赛事列表分开。
+    known = [c for c in contests if c["series"] != "未知"]
+    unknown = [c for c in contests if c["series"] == "未知"]
 
     award_rows = []
     for c in contests:
@@ -110,15 +116,20 @@ def main():
     dump_json(os.path.join(DOCS, "data", "awards.json"), award_rows)
     dump_json(os.path.join(DOCS, "data", "site.json"), {
         "built_at": datetime.now(TZ).isoformat(timespec="seconds"),
-        "contests_total": len(contests),
-        "contests_collected": sum(1 for c in contests if c["collected"]),
-        "roster_total": sum(c["roster_count"] for c in contests),
+        "contests_total": len(known),
+        "contests_collected": sum(1 for c in known if c["collected"]),
+        "roster_total": sum(c["roster_count"] for c in known),
         "award_total": len(award_rows),
+        "unknown_total": len(unknown),
+        "unknown_collected": sum(1 for c in unknown if c["collected"]),
+        "unknown_roster_total": sum(c["roster_count"] for c in unknown),
     })
 
     print(f"站点已生成到 {DOCS}")
-    print(f"  赛道 {len(contests)}（已采 {sum(1 for c in contests if c['collected'])}），"
-          f"清单 {sum(c['roster_count'] for c in contests)}，获奖 {len(award_rows)}")
+    print(f"  赛事 {len(known)}（已采 {sum(1 for c in known if c['collected'])}），"
+          f"赛事清单 {sum(c['roster_count'] for c in known)}，获奖 {len(award_rows)}")
+    print(f"  未知 ID {len(unknown)}（已采 {sum(1 for c in unknown if c['collected'])}），"
+          f"未知清单 {sum(c['roster_count'] for c in unknown)}")
 
 
 if __name__ == "__main__":
