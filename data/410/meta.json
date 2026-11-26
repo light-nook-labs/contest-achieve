@@ -1,6 +1,6 @@
 {
   "contest_track_id": 410,
-  "contest_name": "七征-赛道3",
+  "contest_name": "七征-短篇",
   "series": "X征",
   "api_generation": "legacy",
   "url_template": "https://pages.sfacg.com/ajax/ashx/Common.ashx?op=getNovelsByTag&tagId={contest_track_id}&ps={size}&pi={page}",

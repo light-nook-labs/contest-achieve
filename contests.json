@@ -721,7 +721,7 @@
   },
   {
     "contest_track_id": 408,
-    "contest_name": "七征-赛道1",
+    "contest_name": "七征-长篇",
     "series": "X征",
     "api_generation": "legacy",
     "page_start": 0,
@@ -733,7 +733,7 @@
   },
   {
     "contest_track_id": 409,
-    "contest_name": "七征-赛道2",
+    "contest_name": "七征-中篇",
     "series": "X征",
     "api_generation": "legacy",
     "page_start": 0,
@@ -745,7 +745,7 @@
   },
   {
     "contest_track_id": 410,
-    "contest_name": "七征-赛道3",
+    "contest_name": "七征-短篇",
     "series": "X征",
     "api_generation": "legacy",
     "page_start": 0,
@@ -757,7 +757,7 @@
   },
   {
     "contest_track_id": 411,
-    "contest_name": "七征-赛道4",
+    "contest_name": "七征-对话长",
     "series": "X征",
     "api_generation": "legacy",
     "page_start": 0,
@@ -769,7 +769,7 @@
   },
   {
     "contest_track_id": 412,
-    "contest_name": "七征-赛道5",
+    "contest_name": "七征-对话短",
     "series": "X征",
     "api_generation": "legacy",
     "page_start": 0,
